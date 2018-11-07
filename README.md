@@ -11,9 +11,9 @@ DJ Krummen
 Reported bugs/fixes will be submitted to correction
 
 ### About
-Project originated from tutorial 'myTunes', added and changed sections to create ElevenCo website.
+Project originated from tutorial 'myTunes', added my pictures and changed sections to create ElevenCo website.
 
-ictures used were captured myself.
+
 
 
 
@@ -61,3 +61,12 @@ Add margin to bottom of btn in video section
 Make img in video section match bg.
 
 Add video play icons to the img in video section
+
+Fixed bugs
+---
+
+favicon.ico error
+
+```
+GET file:///C:/favicon.ico net::ERR_FILE_NOT_FOUND
+```

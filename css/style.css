@@ -227,6 +227,7 @@ nav a#openup {
     font-size: 3rem;
   }
 
+
   nav {
     height: auto;
     border-bottom: 0;
@@ -247,9 +248,11 @@ nav a#openup {
     background: #333;
     border-bottom: 1px solid #555;
   }
+
   nav a:hover {
     background: #444;
   }
+
   nav a#openup:after {
     content: "|||";
     transform: rotate(-90deg);
@@ -283,6 +286,7 @@ nav a#openup {
 .cf {
   zoom: 1;
 }
+
 
 @media screen and (max-width: 780px) {
   .print-pics {
