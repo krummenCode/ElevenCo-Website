@@ -6,18 +6,24 @@ ElevenCo-Website
 
 ## Author & Contributor List
 
-DJ Krummen
+DJ Krummen - ElevenCo Author, photographer
+
+Traversy Media - myTunes tutorial
+
+Ash Neilson - Basic Responsive Menu a pen on codepen
 
 Reported bugs/fixes will be submitted to correction
 
 ### About
 Project originated from tutorial 'myTunes', added my pictures and changed sections to create ElevenCo website.
 
+ElevenCo is composed of HTML5, CSS3, Js,
 
 
 
 
-file list
+
+File List
 ---
 ```
 css/style.css
@@ -33,7 +39,7 @@ favicon.ico
 index.html
 ```
 
-How to view
+How to View
 ---
 * Download zip from link  
 * Open zip file
@@ -54,7 +60,7 @@ Landing text gets cropped off on small landscape oriented screens or narrow/shor
 
   galaxy s5 landscape. height 360
 
-Changes to be made
+Changes to be Made
 ---
 Add margin to bottom of btn in video section
 
@@ -62,7 +68,7 @@ Make img in video section match bg.
 
 Add video play icons to the img in video section
 
-Fixed bugs
+Fixed Bugs
 ---
 
 favicon.ico error
