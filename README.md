@@ -6,7 +6,7 @@ ElevenCo-Website
 
 ## Author & Contributor List
 
-DJ Krummen - ElevenCo Author, photographer
+DJ Krummen - ElevenCo Author & Photographer
 
 Traversy Media - myTunes tutorial
 
@@ -15,9 +15,10 @@ Ash Neilson - Basic Responsive Menu a pen on codepen
 Reported bugs/fixes will be submitted to correction
 
 ### About
-Project originated from tutorial 'myTunes', added my pictures and changed sections to create ElevenCo website.
 
-ElevenCo is composed of HTML5, CSS3, Js,
+ElevenCo is a mock company website composed of HTML5, CSS3, Js. I added my pictures, restyled parts and used it as a project to practice and expand my skills.
+
+Site is not live 
 
 
 
