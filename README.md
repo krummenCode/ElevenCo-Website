@@ -66,11 +66,11 @@ Landing text gets cropped off on small landscape oriented screens or narrow/shor
 Changes to be Made
 ---
 
-Make img in video section match bg.
-
-Add video play icons to the img in video section
-
 Add more favicons. mobile...
+
+Added
+---
+Video play icons on video sect images and file changed to png for transparent bg.
 
 Fixed Bugs
 ---
