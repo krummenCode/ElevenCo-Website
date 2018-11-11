@@ -4,8 +4,8 @@
 :root {
   --primary-color: #065535;
   --primary-color-hover: #098553;
-  --secondary-color: #133337;
-  --secondary-color-hover: #20565d;
+  --secondary-color: #044f5c;
+  --secondary-color-hover: #07788d;
   --light-color: #f4f4f4;
 }
 
@@ -54,13 +54,13 @@ a {
 }
 
 #showcase .container {
-  margin-top: 25vh;
+  margin-top: 22vh;
 }
 
 #showcase h1 {
   font-size: 4rem;
   margin-bottom: 0;
-  color: #333333;
+  color: #595959;
 }
 
 #showcase h2 {
@@ -151,7 +151,7 @@ footer .footer-bottom {
   background: var(--secondary-color-hover);
 }
 
-.btn-primary .btn-secondary {
+.btn-primary, .btn-secondary {
     border-radius: 1.1rem;
 }
 
@@ -220,7 +220,7 @@ nav a#openup {
   }
 
   #showcase {
-    height: 75vh;
+    height: 100vh;
 
   }
 
@@ -229,7 +229,7 @@ nav a#openup {
   }
 
   #showcase h1 {
-    font-size: 3rem;
+    font-size: 4rem;
   }
 
 
