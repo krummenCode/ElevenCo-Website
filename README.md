@@ -1,7 +1,9 @@
 ElevenCo-Website
 ===
 
-# Website can be downloaded to view on local machine: [krummenCode/ElevenCo-Website](https://github.com/krummenCode/ElevenCo-Website.git)
+# Website can be viewed at [krummenCode/ElevenCo-Website](https://krummencode.github.io/ElevenCo-Website/)
+
+# Website can be downloaded or cloned to local machine: [krummenCode/ElevenCo-Website](https://github.com/krummenCode/ElevenCo-Website.git)
 
 
 ## Author & Contributor List
@@ -16,9 +18,8 @@ Reported bugs/fixes will be submitted to correction
 
 ### About
 
-ElevenCo is a mock company website composed of HTML5, CSS3, Js. I added my pictures, restyled parts and used it as a project to practice and expand my skills.
+ElevenCo is a mock content creation company, the website composed of HTML5, CSS3, Js, and jquery. I added content, restyled and used it as a project to practice and expand my skills.
 
-Site is not live 
 
 
 
@@ -40,11 +41,12 @@ favicon.ico
 index.html
 ```
 
-How to View
+How to Clone
 ---
-* Download zip from link  
-* Open zip file
-* open folder
+* Click clone or download button
+* Download zip file
+* Open folder ElevenCo-Website-master
+* Unzip contents
 * Open index.html
 
 Known Bugs
@@ -63,11 +65,12 @@ Landing text gets cropped off on small landscape oriented screens or narrow/shor
 
 Changes to be Made
 ---
-Add margin to bottom of btn in video section
 
 Make img in video section match bg.
 
 Add video play icons to the img in video section
+
+Add more favicons. mobile...
 
 Fixed Bugs
 ---
