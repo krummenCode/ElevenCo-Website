@@ -2,10 +2,10 @@
 
 /* CSS Variables */
 :root {
-  --primary-color: #b90415;
-  --primary-color-hover: #d3071b;
-  --secondary-color: #103063;
-  --secondary-color-hover: #143f85;
+  --primary-color: #065535;
+  --primary-color-hover: #098553;
+  --secondary-color: #133337;
+  --secondary-color-hover: #20565d;
   --light-color: #f4f4f4;
 }
 
@@ -60,6 +60,7 @@ a {
 #showcase h1 {
   font-size: 4rem;
   margin-bottom: 0;
+  color: #333333;
 }
 
 #showcase h2 {
@@ -148,6 +149,10 @@ footer .footer-bottom {
 
 .btn-secondary:hover {
   background: var(--secondary-color-hover);
+}
+
+.btn-primary .btn-secondary {
+    border-radius: 1.1rem;
 }
 
 /* Text Colors*/
