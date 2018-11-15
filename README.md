@@ -14,7 +14,10 @@ Traversy Media - myTunes tutorial
 
 Ash Neilson - Basic Responsive Menu a pen on codepen
 
+Social Media Icons - icon8
+
 Reported bugs/fixes will be submitted to correction
+
 
 ### About
 
@@ -53,27 +56,19 @@ Known Bugs
 ---
 Landing text gets cropped off on small landscape oriented screens or narrow/short screens
 
-  iphone x landscape. height 375
-
-  iphone 6/7/8 plus landscape. height 414
-
-  iphone 6/7/8 landscape. height 375
-
-  pixel 2/ pixel 2 xl landscape. height 411
-
-  galaxy s5 landscape. height 360
-
 Changes to be Made
 ---
 
-Add social media icons with links
 Create forms for contact us
 
-Added
+Recently Added
 ---
-Video play icons on video sect images and file changed to png for transparent bg.
 
-'Touch' icons for apple products.
+Social media icons that are links to corresponding site.
+
+'Touch' icons for apple products. Better resolution when favorited to home or browser.
+
+Video play icons on video sect images and file changed to png for transparent bg.
 
 Fixed Bugs
 ---
