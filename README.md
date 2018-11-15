@@ -66,11 +66,14 @@ Landing text gets cropped off on small landscape oriented screens or narrow/shor
 Changes to be Made
 ---
 
-Add more favicons. mobile...
+Add social media icons with links
+Create forms for contact us
 
 Added
 ---
 Video play icons on video sect images and file changed to png for transparent bg.
+
+'Touch' icons for apple products.
 
 Fixed Bugs
 ---
